@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+url: "https://mcv_mysite_test.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -64,7 +65,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://mcv_mysite_test.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
